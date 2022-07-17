@@ -2,11 +2,11 @@
 A simple,"weird" and hackable paint application
 
 ## Controls
--"WSAD" for the movement
--"C" for choosing color
--"Left click" to position pen
--"Right click" to clear hte screen
--"1 to 9" to set pen thickness
+- "WSAD" for the movement
+- "C" for choosing color
+- "Left click" to position pen
+- "Right click" to clear hte screen
+- "1 to 9" to set pen thickness
 
 ## Examples
 a weird painting in weird paint:
