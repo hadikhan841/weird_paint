@@ -1,5 +1,5 @@
 # wierd_paint
-A simple,"wierd" and hackable paint aplication
+A simple,"wierd" and hackable paint application
 
 ## Controls
 - "WSAD" for the movement
