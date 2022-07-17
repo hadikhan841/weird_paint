@@ -1,20 +1,20 @@
-# wierd_paint
-A simple,"wierd" and hackable paint application
+# weird_paint
+A simple,"weird" and hackable paint application
 
 ## Controls
-- "WSAD" for the movement
-- "C" for choosing color
-- "Left click" to position pen
-- "Right click" to clear hte screen
--   Keys 1 to 9 to set pen thickness
+-"WSAD" for the movement
+-"C" for choosing color
+-"Left click" to position pen
+-"Right click" to clear hte screen
+-"1 to 9" to set pen thickness
 
 ## Examples
-a wierd painting in wierd paint:
+a weird painting in weird paint:
 
-![a wierd painting in wierd paint](https://user-images.githubusercontent.com/77002353/179420961-451cac45-d355-4ec1-ac0d-f15ecf2c3b22.png)
+![a weird painting in weird paint](https://user-images.githubusercontent.com/77002353/179420961-451cac45-d355-4ec1-ac0d-f15ecf2c3b22.png)
 
 
-another wierd painting in wierd paint:
+another weird painting in weird paint:
 
 ![Doodle (2)](https://user-images.githubusercontent.com/77002353/179421237-cf39f341-819a-43c5-903f-31d4182c009b.png)
 
@@ -26,7 +26,7 @@ Wait What???!!!:
 
 ## Keeping in touch
 I really want to see how much poeple get creative with this odd painting app.
-If you painted a "wierd painting" feel free to share it with me on twitter with tagging me(<a href="https://twitter.com/hapolook">@hapolook</a>)
+If you painted a "weird painting" feel free to share it with me on twitter with tagging me(<a href="https://twitter.com/hapolook">@hapolook</a>)
 
 ## Hacking
 This is kind of hackable.You can perform alot of tricks with it, add your own features ,etc.
