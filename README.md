@@ -2,10 +2,10 @@
 A simple,"wierd" and hackable paint aplication
 
 ## Controls
-"WSAD" for the movement
-"C" for choosing color
-"Left click" to position pen
-"Right click" to clear hte screen
+- "WSAD" for the movement
+- "C" for choosing color
+- "Left click" to position pen
+- "Right click" to clear hte screen
 
 ## Examples
 a wierd painting in wierd paint:
