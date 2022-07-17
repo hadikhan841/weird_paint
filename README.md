@@ -29,4 +29,5 @@ If you painted a "wierd painting" feel free to share it with me on twitter with 
 
 ## Hacking
 This is kind of hackable.You can perform alot of tricks with it, add your own features ,etc.
-! Happy Hacking!!
+
+Happy Hacking!!
