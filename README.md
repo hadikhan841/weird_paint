@@ -20,7 +20,13 @@ another wierd painting in wierd paint:
 
 Wait What??:
 
+![Logo1](https://user-images.githubusercontent.com/77002353/179421496-57fa4876-bbaf-423c-931f-31b357fa8e8f.png)
+
 
 ## Keeping in touch
 I really want to see how much poeple get creative with this odd painting app.
 If you painted a "wierd painting" feel free to share it with me on twitter with tagging me(<a href="https://twitter.com/hapolook">@hapolook</a>)
+
+## Hacking
+This is kind of hackable.You can perform alot of tricks with it, add your own features ,etc.
+<p font="comicsans">Happy Hacking</p>
