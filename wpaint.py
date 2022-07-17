@@ -1,3 +1,4 @@
+# Wierd Paint by Haplook(@hapolook on twitter)
 import pygame
 import tkinter as tk
 from tkinter.colorchooser import askcolor
