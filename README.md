@@ -6,7 +6,7 @@ A simple,"wierd" and hackable paint aplication
 - "C" for choosing color
 - "Left click" to position pen
 - "Right click" to clear hte screen
-- Keys 1 to 9 to set prn thickness
+-  Keys 1 to 9 to set pen thickness
 
 ## Examples
 a wierd painting in wierd paint:
