@@ -29,4 +29,4 @@ If you painted a "wierd painting" feel free to share it with me on twitter with 
 
 ## Hacking
 This is kind of hackable.You can perform alot of tricks with it, add your own features ,etc.
-<p font="comicsans">Happy Hacking</p>
+<p style="font-family:comicsans,fontsize:24,color:yellow">Happy Hacking</p>
