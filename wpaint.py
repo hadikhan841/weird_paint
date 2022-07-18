@@ -1,7 +1,7 @@
 # Weird Paint by Haplook(@hapolook on twitter)
 
 '''
-Pygame is a SDl based library to create 2d graphics and games for more information visit www.pygame.org
+Pygame is a SDL based library to create 2d graphics and games. For more information visit www.pygame.org.
 Tkinter is a built-in library in python to create Graphical User Interface. 
 '''
 import pygame
