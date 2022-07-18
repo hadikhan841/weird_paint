@@ -22,12 +22,13 @@ x = 400
 y = 400
 speed = 0.1
 pen_size = 1
+color = (0,0,0)
 
 def change_color():
-    colors = askcolor(title="Color Chooser")
-    selected_color = colors[0]
-	return selected_color
-
+	global color
+	colors = askcolor(title="Color Chooser")
+	color = colors[0]
+	
 #color picker built with tkinter
 def color_picker():
 	root = tk.Tk()
@@ -43,9 +44,9 @@ color_picker()
 while True:
         
 		# Wait What??
-		player = pygame.draw.circle(screen,selected_color,(x,y),pen_size)
+		player = pygame.draw.circle(screen,color,(x,y),pen_size)
         
-        for event in pygame.event.get():
+		for event in pygame.event.get():
 			if event.type == pygame.QUIT:
 				pygame.quit()
 				exit()
@@ -77,4 +78,3 @@ while True:
         
 
 		pygame.display.update()
-
